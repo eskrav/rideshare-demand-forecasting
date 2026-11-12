@@ -1,0 +1,13 @@
+pandas<2.0
+numpy
+matplotlib
+seaborn
+scikit-learn<1.6
+xgboost
+category_encoders
+geopy
+h3<4
+folium
+requests
+joblib
+scipy
